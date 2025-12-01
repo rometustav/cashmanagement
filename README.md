@@ -1,6 +1,6 @@
 # Project G11: SME Loan approval prediction
 
-The aim of this project is to help SMEs predict the loan amount they will be approved for.
+The aim of this project is to predict the loan amount a company got approved for.
 
 2 different prediction models: one tree-based model + one linear regression model
 

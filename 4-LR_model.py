@@ -1,1 +1,0 @@
-# Prediction model 2: Linear regression
